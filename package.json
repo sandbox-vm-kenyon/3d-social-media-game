@@ -1,0 +1,23 @@
+{
+  "name": "3d-social-media-game",
+  "version": "0.1.0",
+  "description": "A three.js 3D social media game where you walk around to visit profiles and discover objects and places",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "three.js",
+    "3d",
+    "game",
+    "social-media",
+    "webgl"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "three": "^r128"
+  }
+}
